@@ -1,0 +1,1 @@
+export const MENU_DATA = ['components','jsx','props','state']
